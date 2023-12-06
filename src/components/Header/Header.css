@@ -8,6 +8,13 @@ header{
 
 
 }
+h1 {
+    text-align: center;
+    font-family: "Rubik Vinyl", cursive;
+    color: white;
+    margin: 0 auto;
+    /* padding-right: 6rem; */
+}
 header img{
     width: 100px;
    
