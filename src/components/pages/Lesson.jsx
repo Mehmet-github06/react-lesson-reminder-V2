@@ -1,5 +1,6 @@
 import { useState } from "react";
 import LessonCard from "../LessonCard.jsx/LessonCard";
+import "./Lesson.css"
 
 const Lesson = () => {
   const [sayi, setSayi] = useState(6);
