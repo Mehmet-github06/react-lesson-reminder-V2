@@ -1,7 +1,7 @@
 # Lesson Reminder App
 
 <div align="center">
-  <img src="./public/Animation.gif />
+  <img src="./public/Animation.gif" />
 </div>
 
 Lesson Reminder Application is a web application designed with React to help users organise and remember their lessons.
